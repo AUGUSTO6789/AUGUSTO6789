@@ -23,4 +23,6 @@ Apaixonado por tecnologias
   Tenho 21 Anos 
  Atualmente Sou Estudante De Programação No Curso: Desenvolvedor Full Stack (Dev Club)
  Tenho Experiencia Em: Operador De Máquinas , Mecânico De Manutenção, Montagem e Desmontagem de Computadores, Desenvolvedor Front-End Nas Seguintes Tecnologias: HTML ,
- CSS , JAVASCRIPT...
+ CSS , JAVASCRIPT.
+ 
+ Estou Constantemente Procurando Formas Para Aprender Novas Tecnologias Assim, Aperfeiçoando a Cada Dia, Minhas Habilidades, Conhecimentos. Para Se Tornar Um Excelente Profissional.
